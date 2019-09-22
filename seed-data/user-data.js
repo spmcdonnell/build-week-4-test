@@ -1,0 +1,1 @@
+module.exports = [{ username: 'seanmcdonnell', password: 'password', firstName: 'Sean', lastName: 'McDonnell', age: 31 }, { username: 'joebob', password: 'password', firstName: 'Joe', lastName: 'Bob', age: 52 }];
