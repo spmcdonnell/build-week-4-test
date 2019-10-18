@@ -4,6 +4,7 @@ module.exports = {
     development: {
         client: 'pg',
         connection: 'postgres://localhost/guidr-db',
+        useNullAsDefault: true,
         migrations: {
             directory: './database/migrations'
         },
